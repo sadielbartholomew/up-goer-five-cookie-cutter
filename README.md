@@ -43,6 +43,9 @@ This was made at [CW26](https://www.software.ac.uk/workshop/collaborations-works
       <td align="center" valign="top" width="14.28%"><a href="https://colinsauze.github.io/"><img src="https://avatars.githubusercontent.com/u/1053628?v=4?s=100" width="100px;" alt="Colin Sauze"/><br /><sub><b>Colin Sauze</b></sub></a><br /><a href="#ideas-colinsauze" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-colinsauze" title="Research">🔬</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://sfmig.github.io"><img src="https://avatars.githubusercontent.com/u/33267254?v=4?s=100" width="100px;" alt="sfmig"/><br /><sub><b>sfmig</b></sub></a><br /><a href="#ideas-sfmig" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-sfmig" title="Research">🔬</a> <a href="#content-sfmig" title="Content">🖋</a></td>
     </tr>
+    <tr>
+      <td align="center" valign="top" width="14.28%"><a href="http://sdruskat.net"><img src="https://avatars.githubusercontent.com/u/3007126?v=4?s=100" width="100px;" alt="Stephan Druskat"/><br /><sub><b>Stephan Druskat</b></sub></a><br /><a href="#ideas-sdruskat" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-sdruskat" title="Research">🔬</a> <a href="#code-sdruskat" title="Code">💻</a></td>
+    </tr>
   </tbody>
 </table>
 
