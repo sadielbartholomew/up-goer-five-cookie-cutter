@@ -1,16 +1,18 @@
 # _data/features.yml
 
-- title: "Term 1"
+- title: "Research Software Engineer (RSE)"
   excerpt: "Longer description of the term."
   url: "/feature-one/"
+  image_path: "/assets/images/rse.png"
 
-- title: "Term 2"
+- title: "Research Community Manager (RCM)"
   excerpt: "Longer description of the term."
   url: "/feature-one/"
+  image_path: "/assets/images/rse.png"
 
-- title: "Term 3"
+- title: "Collaborations Workshop"
   excerpt: "Longer description of the term."
-  url: "/feature-one/"
+  image_path: "/assets/images/collaborations.jpg"
 
 - title: "Term 4"
   excerpt: "Longer description of the term."
