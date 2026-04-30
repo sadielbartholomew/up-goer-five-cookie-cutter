@@ -39,6 +39,7 @@ This was made at [CW26](https://www.software.ac.uk/workshop/collaborations-works
       <td align="center" valign="top" width="14.28%"><a href="http://www.lannelongue-group.org"><img src="https://avatars.githubusercontent.com/u/22586038?v=4?s=100" width="100px;" alt="Loïc Lannelongue"/><br /><sub><b>Loïc Lannelongue</b></sub></a><br /><a href="#projectManagement-Llannelongue" title="Project Management">📆</a></td>
       <td align="center" valign="top" width="14.28%"><a href="https://orcid.org/0000-0002-9324-2775"><img src="https://avatars.githubusercontent.com/u/1590010?v=4?s=100" width="100px;" alt="Paddy McCann"/><br /><sub><b>Paddy McCann</b></sub></a><br /><a href="#content-pgmccann" title="Content">🖋</a></td>
       <td align="center" valign="top" width="14.28%"><a href="http://www.software.ac.uk"><img src="https://avatars.githubusercontent.com/u/1507151?v=4?s=100" width="100px;" alt="Neil Chue Hong"/><br /><sub><b>Neil Chue Hong</b></sub></a><br /><a href="#content-npch" title="Content">🖋</a> <a href="#research-npch" title="Research">🔬</a></td>
+      <td align="center" valign="top" width="14.28%"><a href="https://hui-ling-wong.com/"><img src="https://avatars.githubusercontent.com/u/71387295?v=4?s=100" width="100px;" alt="Hui Ling Wong"/><br /><sub><b>Hui Ling Wong</b></sub></a><br /><a href="#ideas-wong-hl" title="Ideas, Planning, & Feedback">🤔</a> <a href="#research-wong-hl" title="Research">🔬</a></td>
     </tr>
   </tbody>
 </table>
