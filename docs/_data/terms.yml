@@ -15,6 +15,10 @@
   description: "An often exciting and sometimes fun meeting bringing many different people to have interesting conversations to change the world and themselves"
   image_path: "/assets/images/collaborations.jpg"
 
+- term: "Your role here"
+  definition: "What it is that you do"
+  image_path: "/assets/images/your-role.png"
+
 - term: "Software"
   definition: "Written steps to control a computer wrapped together"
   description: ""
