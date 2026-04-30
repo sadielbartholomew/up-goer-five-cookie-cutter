@@ -11,7 +11,7 @@ layout: splash
 
         {% if item.image_path %}
         <div class="archive__item-teaser">
-          <img src="{{ item.image_path }}" alt="{{ item.title }}">
+          <img src="{{ item.image_path | relative_url }}" alt="{{ item.title }}">
         </div>
         {% endif %}
 
