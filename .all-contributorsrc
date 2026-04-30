@@ -24,6 +24,16 @@
       "profile": "http://www.lannelongue-group.org",
       "contributions": [
         "projectManagement"
+        ]
+    },
+    {
+      "login": "npch",
+      "name": "Neil Chue Hong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/1507151?v=4",
+      "profile": "http://www.software.ac.uk",
+      "contributions": [
+        "content",
+        "research"
       ]
     }
   ]
