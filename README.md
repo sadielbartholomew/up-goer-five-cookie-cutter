@@ -12,7 +12,7 @@ This idea can be used to help think about the way that we talk about something a
 
 ### Things to help you fill in parts yourself
 
-Thing to check if you can explain a hard idea using only the ten hundred most used words by typing in a box: https://splasho.com/upgoer5/
+Thing to check if you can explain a hard idea using only the ten hundred most used words by typing in a box: https://www.xkcd.com/simplewriter/.
 
 ### Contributing
 
